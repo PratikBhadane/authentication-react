@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/authentication-react/static/css/main.e145122b.chunk.css",
+    "main.js": "/authentication-react/static/js/main.1f02d6c5.chunk.js",
+    "main.js.map": "/authentication-react/static/js/main.1f02d6c5.chunk.js.map",
+    "runtime-main.js": "/authentication-react/static/js/runtime-main.92753a49.js",
+    "runtime-main.js.map": "/authentication-react/static/js/runtime-main.92753a49.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/authentication-react/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ef3777de.chunk.js": "/authentication-react/static/js/2.ef3777de.chunk.js",
+    "static/js/2.ef3777de.chunk.js.map": "/authentication-react/static/js/2.ef3777de.chunk.js.map",
+    "index.html": "/authentication-react/index.html",
+    "precache-manifest.d39bb8bd0fac325c518c74b41cff032d.js": "/authentication-react/precache-manifest.d39bb8bd0fac325c518c74b41cff032d.js",
+    "service-worker.js": "/authentication-react/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/authentication-react/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e145122b.chunk.css.map": "/authentication-react/static/css/main.e145122b.chunk.css.map",
+    "static/js/2.ef3777de.chunk.js.LICENSE.txt": "/authentication-react/static/js/2.ef3777de.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/authentication-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92753a49.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ef3777de.chunk.js",
+    "static/css/main.e145122b.chunk.css",
+    "static/js/main.1f02d6c5.chunk.js"
+  ]
+}
